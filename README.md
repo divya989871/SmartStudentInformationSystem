@@ -38,5 +38,5 @@ A multi-language BCA project to manage student records, attendance, and academic
 
 ## 📃 Author
 
-- Your Name
-- BCA Final Year Project
+- divya
+- BCA sem V Project
